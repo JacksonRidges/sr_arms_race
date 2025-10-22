@@ -1,4 +1,9 @@
 #!/bin/sh
+
+#ANGSD version used was 0.941
+#python version used was 3.9
+#----------------------------------------------------------
+
 set -e
 
 directory="/path/to/bams/"
@@ -25,3 +30,4 @@ maf_to_sf.py > ${run_name}.aff
 sweepfinder2 -s 10000 ${run_name}.aff ${run_name}.SF
 
 rm ${run_name}.arg
+
