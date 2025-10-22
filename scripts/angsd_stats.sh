@@ -1,6 +1,6 @@
 #!/bin/zsh
 #script that accepts a bam and outputs stats from ANGSD
-#reference genome usee was UCI_Dpse_MV25 D.pse reference genome which was submitted to RefSeq on March 3rd 2020. It can be accessed at https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009870125.1/.
+#reference genome used was UCI_Dpse_MV25 D.pse reference genome which was submitted to RefSeq on March 3rd 2020. It can be accessed at https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009870125.1/.
 #ANGSD version used was 0.941
 #-------------------------------------------------------
 directory="/path/to/bams"
