@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#Python version used was 3.9
+#-------------------------------------------------------------------------------------------
 import sys
 
 def main():
@@ -12,3 +14,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
