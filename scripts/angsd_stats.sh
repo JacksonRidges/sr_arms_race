@@ -2,6 +2,7 @@
 #script that accepts a bam and outputs stats from ANGSD
 #reference genome used was UCI_Dpse_MV25 D.pse reference genome which was submitted to RefSeq on March 3rd 2020. It can be accessed at https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009870125.1/.
 #ANGSD version used was 0.941
+#SweepFinder2 was accessed at https://degiorgiogroup.fau.edu/sf2.html on Jan 12th 2025.
 #-------------------------------------------------------
 directory="/path/to/bams"
 run_name=""
