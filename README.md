@@ -8,3 +8,4 @@ These are the scripts used for processing genomic data for our publication on th
 * ANGSD version: 0.941pc
 * PCANGSD version: 1.35
 * SweepFinder2
+* R version: 4.4.3
